@@ -75,6 +75,7 @@ Connectivity across geopolitical regions is not supported on the standard Expres
 | **NEXTDC** | Supported | Not Supported | Melbourne, Sydney+ |
 | **[Orange]( http://www.orange-business.com/)** | Supported | Not Supported | Amsterdam, Hong Kong, London, Silicon Valley, Singapore, Washington DC |
 | **PCCW Global Limited** | Supported | Not Supported | Hong Kong |
+|**[Real World Technology](http://www.rwts.com.au/)**|Supported|Supported|Melbourne, Sydney+|
 | **[SingTel]( http://info.singtel.com/about-us/news-releases/singtel-provide-secure-private-access-microsoft-azure-public-cloud)** |  Supported | Not Supported | Singapore |
 | **[Tata Communications](http://www.tatacommunications.com/lp/izo/azure/azure_index.html)** | Supported | Supported | Amsterdam, Chennai+, Hong Kong, London, Mumbai, Singapore |
 | **[TeleCity Group]( http://www.telecitygroup.com/investor-centre/news_details.htm?locid=03100500400b00d&xml)** | Supported | Supported | Amsterdam, London |
@@ -122,6 +123,7 @@ If your connectivity provider is not listed in previous sections, you can still 
 |**Connectivity provider**|**Exchange**|**Peering locations**|
 |---|---|---|
 |**[XO Communications](http://www.xo.com/)**|Equinix|Silicon Valley|
+|**[Real World Technology](http://www.rwts.com.au/)**|NextDC|Melbourne, Sydney+|
 
 ## ExpressRoute system integrators
 
